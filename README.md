@@ -15,7 +15,7 @@
 
 ## Soft Skills:
 
-### Creativity / Intuitive / Empatic / Critical thinking / Logical thinking / Change adaptation.
+### Creativity / Intuitive / Empathic / Critical thinking / Logical thinking / Change adaptation.
 
 ## Tech Skills:
 
