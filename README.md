@@ -19,7 +19,7 @@
 
 ## Tech Skills:
 
-### Javascript / React / Redux / Sequelize / Express / PostgreSQL
+### Javascript / React / Redux / Sequelize / Express / PostgreSQL / React Native / Typescript
 
 
 
