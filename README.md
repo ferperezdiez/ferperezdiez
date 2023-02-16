@@ -15,11 +15,11 @@
 
 ## Soft Skills:
 
-### Creativity / Intuitive / Empathic / Adaptability / Leadership / Curiosity / Perseverance.
+### Creativity / Intuitive / Empathic / Adaptability / Perseverance.
 
 ## Tech Skills:
 
-### Javascript / React / Redux / Sequelize / Express / PostgreSQL / React Native / Typescript
+### Javascript / React / Redux / Typescript / CSS / Styled Components / Sass / Less / Material UI / React Native / Typescript
 
 
 
